@@ -1,0 +1,193 @@
+
+body{
+font-family: "Montserrat"
+  }
+#title
+ {
+background-color: #5C3D2E;
+color: #fff;
+}
+.nav-item
+{
+  padding: 0 5px 60px;
+  font-size: 1.5rem;
+}
+#features
+{
+   padding:3% 15%;
+   background-color: #D4ECDD;
+
+}
+
+ #title .container .navbar .navbar-brand
+{
+  font-family: "Ubuntu";
+  font-size: 3.5em;
+  font-weight:bold;
+  margin-bottom: 40px;
+
+}
+.navbar
+{
+  padding-bottom: 4.5rem
+}
+ .container
+ {
+  padding: 3% 15%;
+ }
+.first
+{
+  font-family: "Montserrat";
+  font-size: 3.5em;
+  line-height: 1.5;
+}
+#cake-collection
+{
+  background-color: #EFEFEF;
+  text-align: center;
+  padding: 5% 17%;
+}
+.font
+{
+  font-family: "Montserrat";
+  padding-bottom: 60px;
+}
+.cake-heading
+{
+  font-family: "Montserrat-light";
+  text-align: center;
+}
+.collection
+{
+background-color: #F9F9F9;
+text-align: center;
+font-family: "Bonheur";
+font-size: 3.5em;
+line-height: 1.5;
+padding: 5% 15%;
+color: #2D2424;
+}
+.img
+{
+  width: 30%;
+  margin-top:20px;
+  border-radius: 100%;
+}
+.download-button
+{
+  margin-bottom: 20px;
+}
+.new-em:hover
+{
+  color:#CDAC81;
+}
+#press
+{
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.partners
+{
+  font-family: "Bonheur";
+  color:#276678;
+  margin-bottom: 30px;
+  background-color: #CDAC81;
+  text-align: center;
+}
+.card-header
+{
+  color: #16C79A;
+}
+.img2
+{
+  width: 40%;
+  margin-top:20px;
+  border-radius: 100%;
+}
+.collection1
+{
+
+  background-color: #F9F9F9;
+  text-align: center;
+  font-family: "Bonheur";
+  font-size: 1.5em;
+  line-height: 1.5;
+  padding: 5% 15%;
+  color: #2D2424;
+
+}
+
+.collection2
+{
+
+  background-color: #F9F9F9;
+  text-align: center;
+  font-family: "Bonheur";
+  font-size: 3.5em;
+  line-height: 1.5;
+  padding: 5% 15%;
+  color: #2D2424;
+
+}
+
+.para
+{
+   color: #8CA1A5;
+  font-size: 1.5em;
+  margin-bottom: 30px;
+}
+.new-em2
+{
+  margin-left: 40px;
+}
+.item1
+{
+  margin-bottom: 60px;
+}
+.item
+{
+margin-bottom: 40px;
+}
+.img3
+{
+  width: 40%;
+  border-radius: 100%;
+  padding-bottom:20px;
+}
+.new-em
+{
+  font-size: 1em;
+}
+.new-em1
+{
+
+  font-family:"Montserrat";
+  color: #D79771;
+}
+.new-div
+{
+  margin-bottom: 30px;
+}
+#Contact
+{
+  background-color: #889EAF;
+  font-family: "Montserrat";
+  text-align: center;
+  padding:5% 17%;
+  color: #fff;
+}
+.download-button
+{
+
+    margin:5% 3% 5% 0;
+}
+#footer
+{
+  text-align: center;
+  padding: 3% 10%;
+}
+.footer-heading
+{
+  margin: 20px 10px;
+}
